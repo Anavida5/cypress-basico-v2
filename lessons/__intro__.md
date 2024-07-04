@@ -6,7 +6,7 @@
 
 ## O que você vai aprender
 
-Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
+Durante o curso de testes automatizados com Cypress (básico), você vai aprender: 12345
 
 - Como configurar um projeto Cypress do zero
 - Como visitar páginas locais e remotas
